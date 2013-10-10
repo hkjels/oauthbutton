@@ -1,0 +1,13 @@
+{
+  "name": "oauthbutton",
+  "author": "Henrik Kjelsberg",
+  "version": "0.0.1",
+  "scripts": ["index.js"],
+  "templates": ["template.html"],
+  "dependencies": {
+    "component/domify": "*",
+    "component/object": "*",
+    "component/querystring": "*",
+    "heavyk/format": "*"
+  }
+}
